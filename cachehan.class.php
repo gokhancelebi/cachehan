@@ -13,12 +13,16 @@ class Cachehan {
  *
  *
  */
+  
+  function __construct($cache_dir){
+    $this->cache_dir = $cache_dir
+  }
 
 function cacheStart($saat =  24)
 {
   
 
-    if (!file_exists(CACHE_DIR)) {
+    if (!file_exists($this->cache_dir)) {
         mkdir(CACHE_DIR, 0777, true);
     }
 
