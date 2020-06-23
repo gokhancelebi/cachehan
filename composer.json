@@ -1,0 +1,17 @@
+{
+    "name": "gokhancelebi/cachehan",
+    "description": "PHP CACHE CLASS",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gokhan",
+            "email": "dinatopya03@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Minifier\\": "src/"
+        }
+    }
+}

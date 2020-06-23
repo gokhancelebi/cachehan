@@ -4,7 +4,7 @@
  * it is simple example for how to use this class
  */
 
-include "cachehan.class.php";
+include "src/cachehan.class.php";
 
 $testCache = new Cachehan("cache",$_SERVER["REQUEST_URI"],[]);
 
