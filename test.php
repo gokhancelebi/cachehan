@@ -6,7 +6,7 @@
 
 include "src/cachehan.class.php";
 
-$testCache = new Cachehan("cache",$_SERVER["REQUEST_URI"],[]);
+$testCache = new Cachehan("cache",$_SERVER["REQUEST_URI"],1);
 
 $testCache->cacheStart();
 
