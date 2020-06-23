@@ -5,5 +5,5 @@ PHP CACHE CLASS
 
 [YAPIM AŞAMALARI](https://www.youtube.com/watch?v=_UcTpumtsTE)
 
-##TODO
-[ ] Kod yorum satırları eklenmeli
+##TODO 
+- [ ] Kod yorum satırları eklenmeli
