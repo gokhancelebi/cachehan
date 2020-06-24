@@ -7,3 +7,5 @@ PHP CACHE CLASS
 
 ##TODO 
 - [ ] Kod yorum satırları eklenmeli
+- [ ] TÜm sayfalar için değilde sadece sayfanın belli bir bölümünü veya belirli bir sayfanın belirli bir bölümünü cacheleme eklenmeli
+- [ ] Cache tazelemeyi tetikleme eklenmeli
