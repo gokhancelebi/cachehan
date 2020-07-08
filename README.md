@@ -9,3 +9,5 @@ PHP CACHE CLASS
 - [ ] Kod yorum satırları eklenmeli
 - [ ] TÜm sayfalar için değilde sadece sayfanın belli bir bölümünü veya belirli bir sayfanın belirli bir bölümünü cacheleme eklenmeli
 - [ ] Cache tazelemeyi tetikleme eklenmeli
+- [ ] Sayfa bölümünü kullanıcıya özel cacheleme
+- [ ] File cache dışındaki cache sistemleri ile entegrasyon(Redis vb.)
